@@ -20,7 +20,6 @@ npm install
 
 Common usage:
 ```
-npm install
 node bot.js example@mail.com P4sw0rd
 ```
 
