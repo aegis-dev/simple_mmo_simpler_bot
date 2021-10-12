@@ -1,0 +1,14 @@
+{
+  "name": "simple_mmo_simpler_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "run_bot"
+  },
+  "author": "aegis-dev",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^10.4.0"
+  }
+}
